@@ -1,12 +1,12 @@
 # GymRat 🏋️‍♂️
 
-> Aplikacja internetowa dla osób trenujących na siłowni – do planowania treningów, śledzenia postępów i budowania społeczności.
+> Aplikacja internetowa dla osób trenujących na siłowni – do tworzenia planów treningowych, śledzenia postępów, wyzwań treningowych i budowania społeczności.
 
 ---
 
 ## 🔍 O projekcie
 
-GymRat to webowa aplikacja stworzona z myślą o osobach, które chcą lepiej organizować swoje treningi i mieć wszystko w jednym miejscu. Możesz w niej planować sesje treningowe, tworzyć własne plany, śledzić swoje postępy, a także dołączać do wyzwań i dzielić się aktywnością z innymi użytkownikami.
+GymRat to webowa aplikacja dla osób, które trenują na siłowni. Można w niej planować sesje treningowe, tworzyć własne plany, śledzić swoje postępy, a także dołączać do wyzwań i dzielić się aktywnością z innymi użytkownikami.
 
 Aplikacja aktualnie działa w języku **polskim**, ale pracuję nad dodaniem wsparcia dla języka **angielskiego**
 
