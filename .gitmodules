@@ -1,0 +1,6 @@
+[submodule "gymrat_backend"]
+	path = gymrat_backend
+	url = https://github.com/Krzychulec21/gymrat_backend.git
+[submodule "gymrat_frontend"]
+	path = gymrat_frontend
+	url = https://github.com/Krzychulec21/gymrat_frontend.git
